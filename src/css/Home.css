@@ -1,0 +1,24 @@
+body{
+  background-color: #453b89;
+  height: 100vh;
+}
+.home{
+  text-align: center;
+  margin-top: 350px;
+  margin-left: 45px;
+}
+
+.title{
+  text-align: center;
+  color: white;
+}
+
+.play-btn{
+  color: white;
+  background-color: rgb(7, 179, 7);
+  border-radius: 100px;
+  outline: none;
+  cursor: pointer;
+  width: 200px;
+  height: 40px;
+}
